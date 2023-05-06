@@ -1,4 +1,4 @@
-# SQL_Baby_Name_Trend_Analysis
+# Baby Name Trend Analysis
 SQL Analysis of American Baby Name Trends utilizing 
 - ranking
 - grouping
